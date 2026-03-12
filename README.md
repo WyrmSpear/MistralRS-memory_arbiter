@@ -270,7 +270,7 @@ All tests run in CI with `--features mock` (no physical GPU required).
    two new crates and tests.
 
 The full source for both crates is available at:
-**[link to your repo / gist once you publish it]**
+**(https://github.com/WyrmSpear/MistralRS-memory_arbiter)**
 
 ---
 
